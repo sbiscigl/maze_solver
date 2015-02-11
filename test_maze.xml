@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no"?>
+<maze>
+	<dimx value="8"></dimx>
+	<dimy value="8"></dimy>
+	<playerx value="1"></playerx>
+	<playery value="1"></playery>
+	<endx value="8"></endx>
+	<endy value="8"></endy>
+	<walls>
+		<wall>
+			<x value="2"></x>
+			<y value="1"></y>
+		</wall>
+		<wall>
+			<x value="6"></x>
+			<y value="1"></y>
+		</wall>
+		<wall>
+			<x value="7"></x>
+			<y value="1"></y>
+		</wall>
+		<wall>
+			<x value="8"></x>
+			<y value="1"></y>
+		</wall>
+		<wall>
+			<x value="2"></x>
+			<y value="2"></y>
+		</wall>
+		<wall>
+			<x value="4"></x>
+			<y value="2"></y>
+		</wall>
+		<wall>
+			<x value="4"></x>
+			<y value="3"></y>
+		</wall>
+		<wall>
+			<x value="5"></x>
+			<y value="3"></y>
+		</wall>
+		<wall>
+			<x value="6"></x>
+			<y value="3"></y>
+		</wall>
+		<wall>
+			<x value="7"></x>
+			<y value="3"></y>
+		</wall>
+		<wall>
+			<x value="1"></x>
+			<y value="4"></y>
+		</wall>
+		<wall>
+			<x value="5"></x>
+			<y value="4"></y>
+		</wall>
+		<wall>
+			<x value="1"></x>
+			<y value="5"></y>
+		</wall>
+		<wall>
+			<x value="3"></x>
+			<y value="5"></y>
+		</wall>
+		<wall>
+			<x value="5"></x>
+			<y value="5"></y>
+		</wall>
+		<wall>
+			<x value="7"></x>
+			<y value="5"></y>
+		</wall>
+		<wall>
+			<x value="1"></x>
+			<y value="6"></y>
+		</wall>
+		<wall>
+			<x value="5"></x>
+			<y value="6"></y>
+		</wall>
+		<wall>
+			<x value="7"></x>
+			<y value="6"></y>
+		</wall>
+		<wall>
+			<x value="1"></x>
+			<y value="7"></y>
+		</wall>
+		<wall>
+			<x value="2"></x>
+			<y value="7"></y>
+		</wall>
+		<wall>
+			<x value="3"></x>
+			<y value="7"></y>
+		</wall>
+		<wall>
+			<x value="5"></x>
+			<y value="7"></y>
+		</wall>
+		<wall>
+			<x value="7"></x>
+			<y value="7"></y>
+		</wall>
+		<wall>
+			<x value="5"></x>
+			<y value="8"></y>
+		</wall>
+		<wall>
+			<x value="7"></x>
+			<y value="8"></y>
+		</wall>
+	</walls>
+</maze>
